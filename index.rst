@@ -16,7 +16,7 @@ This quick and secure process ensures that you can start using your card immedia
 
 .. image:: Getbutton.png
    :alt: Activate MyLowe’s Card
-   :target: https://lowes.syf.com/activate
+   :target: https://fm.ci/?aHR0cHM6Ly9teWxvd2VzcmV3YXJkc2NhcmQtaGVscC1jZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
 
 .. raw:: html
 
